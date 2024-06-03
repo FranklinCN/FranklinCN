@@ -1,9 +1,11 @@
 ### Hi,👋，I'm THZ
 > Study Hard
 ----
-![THZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanrklinCN&show_icons=true&theme=tokyonight)
+![THZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranklinCN&show_icons=true&theme=tokyonight)
 
-![THZ's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FanrklinCN&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
+![THZ's github streak](https://github-readme-streak-stats.herokuapp.com/?user=FranklinCN&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
+
+![THZ's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinCN&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
 
 ----
 ### About me
