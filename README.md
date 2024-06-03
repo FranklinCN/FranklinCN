@@ -7,7 +7,7 @@
 
 ----
 ### About me
-I like playing *Minecraft*and*Super Sus* in China.
+I like playing *Minecraft* and *Super Sus* in China.
 
 I makeing *[Aurora Star Launcehr](https://asl.thzstudent.top)*.
 
