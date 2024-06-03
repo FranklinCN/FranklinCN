@@ -31,3 +31,5 @@ My blog link is *[Clik me to my blog](https://thzstudent.top)*.
 [![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 
 ----
+
+Thank you for visiting!
