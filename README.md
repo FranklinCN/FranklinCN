@@ -9,9 +9,9 @@
 
 ----
 ### About me
-I like playing *Minecraft* and *Super Sus* in China.
+I like playing *Minecraft* and *Among Us* in China.
 
-I makeing *[Aurora Star Launcehr](https://asl.thzstudent.top)*.
+I makeing *[Aurora Star Launcehr](https://asl.thzstudent.top)* and *Aurora Chat BOt*.
 
 My blog link is *[Clik me to my blog](https://thzstudent.top)*.
 
@@ -19,7 +19,7 @@ My blog link is *[Clik me to my blog](https://thzstudent.top)*.
 ### Contact me
 - QQ: 2840519267
 - E-mail: 
-  - 961274111@qq.com (The reply is fast, you all know why I have to send an email to QQ mailbox?)
+  - 2840519267@qq.com (The reply is fast, you all know why I have to send an email to QQ mailbox?)
   - thz15916108729@163.com
 ----
 ### The tools and programming languages being used
