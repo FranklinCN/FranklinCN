@@ -1,5 +1,8 @@
 ### Hi,👋，I'm THZ
 > Study Hard
+
+MAKE IT HAPPEN!
+
 ----
 ![THZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranklinCN&show_icons=true&theme=tokyonight)
 
@@ -8,14 +11,6 @@
 ![THZ's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinCN&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
 
 ----
-### About me
-I like playing *Minecraft* and *Among Us* in China.
-
-I makeing *[Aurora Star Launcehr](https://asl.thzstudent.top)* and *Aurora Chat BOt*.
-
-My blog link is *[Clik me to my blog](https://thzstudent.top)*.
-
----
 ### Contact me
 - QQ: 2840519267
 - E-mail:
@@ -34,7 +29,3 @@ My blog link is *[Clik me to my blog](https://thzstudent.top)*.
 [![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/-React-4fc08d?style=flat-square&logo=react&logoColor=ffffff)](https://vuejs.org/)
 ----
-
-Thank you for visiting!
-
-> ###### Edit on 10/27/2024
