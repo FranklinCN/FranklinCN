@@ -14,8 +14,11 @@ MAKE IT HAPPEN!
 ### Contact me
 - QQ: 2840519267
 - E-mail:
-   - 2840519267@qq.com (The reply is fast, you all know why I have to send an email to QQ mailbox?)
-   - thz15916108729@163.com
+   - 2840519267@qq.com 
+   - franklincn9527@outlook.com
+   - thzstudent1145@163.com
+- X: [Franrklin](https://x.com/franrklin)
+- Facebook: [Franklin](https://www.facebook.com/profile.php?id=100089017057508)
 ----
 ### The tools and programming languages being used
 ![Microsoft Windows10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
